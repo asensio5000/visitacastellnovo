@@ -1,1 +1,1 @@
-web: vendor/bin/visitacastellnovo public/
+web: vendor/bin/index.php public/
